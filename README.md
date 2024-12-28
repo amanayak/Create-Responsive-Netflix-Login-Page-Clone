@@ -1,6 +1,5 @@
 # 🔥 Create a Netflix Login Page Clone Using HTML and CSS | Step-by-Step Tutorial
 ## [Live Preview](https://amanayak.github.io/Create-Responsive-Netflix-Login-Page-Clone)
-### 🔥 Create a Netflix Login Page Clone Using HTML and CSS | Step-by-Step Tutorial
 
 - Netflix Login Page Design
 - Clone Using HTML and CSS
